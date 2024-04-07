@@ -1,12 +1,14 @@
 
 ## 🙋‍♀️Olá eu sou Rafah Martins!💁‍♀️
 _💖BEM VINDOS AO MEU GITHUB🥰😘_
+
+Desenvolvedora Frontend Jr. 
 Apaixonada por Tecnologia / Programação e Games! 💻🕹️🎮
 
 [![LINKEDIN](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaela-martins)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](rafahmartins627@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@SEUUSERNAME/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/rafahmartinss/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafahmartinsdev)
 
 ![Rafah GitHub stats](https://github-readme-stats.vercel.app/api?username=rafahmartinsdev&show_icons=true&theme=radical)
 
